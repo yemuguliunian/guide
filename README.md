@@ -38,8 +38,11 @@
 -   [coordtransform](https://github.com/wandergis/coordtransform) 提供了百度坐标（BD09）、国测局坐标（火星坐标，GCJ02）、和 WGS84 坐标系之间的转换
 -   模板引擎
     -   [ejs](https://github.com/mde/ejs) 嵌入式 JavaScript 模板
--   Http 库
+-   Http
     -   [axios](http://www.axios-js.com/) 易用、简洁且高效的 http 库
+    -   URL 查询字符串解析
+        -   [qs](https://github.com/ljharb/qs) A querystring parser with nesting support
+        -   [query-string](https://github.com/sindresorhus/query-string) 解析和字符串化URL查询字符串
 
 ## React
 
@@ -170,6 +173,8 @@
         -   [前端基础进阶系列](https://www.jianshu.com/p/cd3fee40ef59) 蛮推荐的，实体书-JavaScript 核心技术开发解密
     -   React
         -   [React 源码解析](https://react.jokcy.me/)
+    -   Vue
+        -   [learnVue](https://github.com/answershuto/learnVue) :octocat:Vue.js 源码解析
     -   Typescript
         -   [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) TypeScript 入门教程
         -   [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) TypeScript Deep Dive 中文版
