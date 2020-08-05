@@ -109,6 +109,8 @@
     -   [ora](https://github.com/sindresorhus/ora) 优雅的终端旋转器 loading 效果
     -   [chalk](https://github.com/chalk/chalk) 终端命令行加上颜色
     -   [ts-node](https://www.npmjs.com/package/ts-node) `node` 直接执行ts文件
+    -   [cross-env](https://github.com/kentcdodds/cross-env) 设置环境变量
+    -   [npm-run-all](https://github.com/mysticatea/npm-run-all) 并行或顺序运行多个npm脚本
 -   应用开发框架
     -   [express](https://github.com/expressjs/express)
 -   自动化测试
