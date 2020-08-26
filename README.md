@@ -21,8 +21,8 @@
 -   对象和数据操作
     -   [updeep](https://github.com/substantial/updeep) 以声明性和不变的方式轻松更新嵌套的冻结对象和数组。可以很好的和`dva`结合使用
     -   [omit.js](https://github.com/benjycui/omit.js) 返回一个没有列入排除 key 属性的对象
--   运算
-    [nefe/number-precision](https://github.com/nefe/number-precision) 解决浮动运算问题，避免小数点后产生多位数和计算精度损失。
+-   运算 
+    -   [nefe/number-precision](https://github.com/nefe/number-precision) 解决浮动运算问题，避免小数点后产生多位数和计算精度损失。
 -   页面分部引导
     -   [driver.js](https://github.com/kamranahmedse/driver.js) 引导用户操作
 -   CSS 预处理器
